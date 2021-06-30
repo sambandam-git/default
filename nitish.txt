@@ -1,3 +1,6 @@
 this doc is to practise git 
 
 Changes done by sambandam to validate pull
+
+
+Changes done to second push 
